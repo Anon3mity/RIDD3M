@@ -2,11 +2,11 @@
 label: Changelog
 hide_body: true
 fields:
-- name: what_s_new__
+- name: page
   type: text
   config:
     required: false
-  label: What's new !
+  label: Page
   description: changes
 pages:
 - changelog.md
