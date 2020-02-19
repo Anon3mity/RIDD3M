@@ -1,4 +1,10 @@
 ---
 label: Changelog
 hide_body: true
-fields: []
+fields:
+- name: what_s_new__
+  type: text
+  config:
+    required: false
+  label: What's new !
+  description: changes
